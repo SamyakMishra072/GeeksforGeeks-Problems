@@ -1,0 +1,32 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void fibonacci(int n)
+{
+    int a = 0, b = 1;
+
+    cout << "Fibonacci Series: ";
+
+    for (int i = 0; i < n; i++)
+    {
+        cout << a << " "; // print the current number
+        int next = a + b; // calculate the next number
+        a = b;            // move forward
+        b = next;         // move forward
+    }
+
+    cout << endl;
+}
+
+int main()
+{
+
+    int n;
+
+    cout << "Enter the range (n) :- ";
+    cin >> n;
+
+    fibonacci(n);
+
+    return 0;
+}
