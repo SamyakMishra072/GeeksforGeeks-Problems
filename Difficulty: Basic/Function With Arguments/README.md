@@ -1,5 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/function-with-arguments-1605762259/1?page=3&category=CPP&sortBy=submissions">Function With Arguments</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Here two integers<strong> a </strong>and<strong> b </strong>are given. The given&nbsp;input and its values are passed as <strong>arguments </strong>to the function <strong>argumentFunction</strong>. The argumentFunction is responsible to return <strong>(a+b)</strong>. You need to <strong>write </strong>this function.</span></p>
-<p><span style="font-size: 18px;"><strong>Examples:</strong><strong> </strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input</strong>: a = 2, b = 3
-<strong>Output:</strong> 5
-<strong>Explanation</strong>: 2 + 3 = 5</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;<code>Java</code>&nbsp;

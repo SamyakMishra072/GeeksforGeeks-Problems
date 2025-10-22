@@ -1,4 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/type-inference--141631/1?page=5&category=CPP&sortBy=submissions">Type Inference</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a C++ program having two variables a and b, it can be of any datatype like int, long, double, etc. You have to store its type id into the&nbsp;<strong>id1&nbsp;</strong>and&nbsp;<strong>id2&nbsp;</strong>variables.</span></p>
-<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input:</strong> a = 5, b = 's'
-<strong>Output: </strong>i c<br><strong>Explanation: </strong>typeid of int is "i" and typeid of char is "c".</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;
