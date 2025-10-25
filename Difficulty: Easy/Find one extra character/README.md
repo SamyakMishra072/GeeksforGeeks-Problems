@@ -1,6 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/find-one-extra-character/1?page=5&category=CPP&sortBy=submissions">Find one extra character</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two strings <strong>s1 </strong>and <strong>s2 </strong>which are of lengths <strong>n</strong> and <strong>n+1</strong>. The second string contains all the character of the first string, but there is <strong>one extra</strong> character. Your task to find the extra character in the second string and return it.</span><span style="font-size: 18px;">&nbsp;</span></p>
-<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input: </strong>s1 = </span><span style="font-size: 18px;">abcd</span><span style="font-size: 18px;">, </span><span style="font-size: 18px;">s2 = badce</span>
-<span style="font-size: 18px;"><strong>Output: </strong>e</span></pre>
-<pre><span style="font-size: 18px;"><strong>Input: </strong>s1 = efg, s2 = gtfe
-<strong>Output: </strong>t</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Java-Strings</code>&nbsp;<code>Strings</code>&nbsp;<code>CPP</code>&nbsp;<code>Java</code>&nbsp;<code>Data Structures</code>&nbsp;
