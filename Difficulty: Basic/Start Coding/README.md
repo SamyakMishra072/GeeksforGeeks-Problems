@@ -1,5 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/start-coding/1?page=1&category=CPP&sortBy=submissions">Start Coding</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">When learning a new language, we first learn to output some message. Here, we'll start with the famous <strong>Hello World</strong> message. Now, here you are given a function to complete. Don't worry about the input and output of functions, just print "Hello World" message&nbsp;</span></p>
-<p><span style="font-size: 18px;"><strong>Example 1</strong></span></p>
-<pre><span style="font-size: 14pt;"><strong>Input:</strong> No input<br><strong>Output:</strong> Hello World</span></pre>
-<p><span style="font-size: 18px;"><strong>Your Task:</strong><br>Your task is to complete the function <strong>printHello()</strong> that prints Hello World.</span></p>
-<p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(1)<br><strong>Expected Auxilary Space : </strong>O(1)</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;

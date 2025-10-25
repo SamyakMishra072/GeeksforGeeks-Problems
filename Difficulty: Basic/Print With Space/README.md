@@ -1,6 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/print-with-space/1?page=1&category=CPP&sortBy=submissions">Print With Space</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two inputs that are store in variables <strong>a</strong> and<strong> b</strong>, you need to print <strong>a</strong> and<strong> b</strong> in a single line with a space separating them.<br></span><span style="font-size: 18px;">Add new line after printing with space.</span></p>
-<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input</strong></span>: <span style="font-size: 18px;">a = "Hello", b = "World"
-<strong>Output:</strong> Hello World
-<strong>Explanation</strong>: a and b are printed in a single line and a space separates them.
-</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python-io</code>&nbsp;<code>CPP</code>&nbsp;<code>Java</code>&nbsp;

@@ -1,7 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/right-angle-triangle-2-1605689820/1?page=4&category=CPP&sortBy=submissions">Right Angle Triangle 2</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an integer<strong> s</strong><strong>.&nbsp;</strong>Write a program to print the Right angle triangle<strong>.&nbsp;</strong>The length&nbsp;of the perpendicular and base&nbsp;is<strong> s.&nbsp;&nbsp;<br>Note: </strong>There is exactly single space ' ' after a start '*'. Print a new line after printing the Triangle.</span></p>
-<p><span style="font-size: 18px;"><strong>Example 1:</strong> <strong> </strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input: </strong>s = 9
-<strong>Output:<br>*<br>* *<br>*   *<br>*     *<br>*       *<br>*         *<br>*           *<br>*             *<br>* * * * * * * * * </strong>
-<strong>Explanation: </strong>Length of perpendicular and base of triangle is 9.</span></pre>
-<pre><strong><span style="font-size: 18px;">Input:</span></strong><span style="font-size: 18px;"> s = 4<br><strong>Output:<br>*<br>* *<br>*   *<br>* * * *<br>Explanation: </strong>Length of perpendicular and base of triangle is 4.</span></pre>
-<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ s ≤ 12</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;<code>Java</code>&nbsp;
