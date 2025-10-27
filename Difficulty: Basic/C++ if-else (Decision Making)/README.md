@@ -1,7 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&category=CPP&sortBy=submissions">C++ if-else (Decision Making)</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given an integer <strong>n</strong>. Your task is to check if the integer is greater than, less than or equal to 5.</span><br><span style="font-size: 14pt;">If the integer is greater than 5, then print "Greater than 5" (without quotes).</span><br><span style="font-size: 14pt;">If the integer is less than 5, then print "Less than 5".</span><br><span style="font-size: 14pt;">If the integer is equal to 5, then print "Equal&nbsp;to 5".</span><br><span style="font-size: 14pt;"><strong>Note:- </strong>Do not print the next line after the result.</span></p>
-<p><span style="font-size: 14pt;"><strong>Examples :</strong></span></p>
-<pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 8
-<strong>Output:</strong>Greater than 5<br><strong>Explanation: </strong>8 is greater than 5.</span></pre>
-<pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 4
-<strong>Output: </strong>Less than 5<br><strong>Explanation:</strong> 4 is less than 5</span></pre>
-<p><span style="font-size: 14pt;"><strong>Constraints:</strong></span><br><span style="font-size: 14pt;">1 ≤ n ≤ 100</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;

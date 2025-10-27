@@ -1,9 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/days-before-n-days/1?page=1&category=CPP&sortBy=submissions">Day before N days</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two integers <strong>d</strong> and <strong>n.&nbsp;</strong>Where <strong>d</strong> is the day, out of 7 days of the week, <strong>d</strong> varies from 0 to 6 as shown below.<br></span><span style="font-size: 18px;">0 - Sunday<br></span><span style="font-size: 18px;">1 -&nbsp;Monday<br></span><span style="font-size: 18px;">2 -&nbsp;Tuesday<br></span><span style="font-size: 18px;">3 -&nbsp;Wednesday<br></span><span style="font-size: 18px;">4 -&nbsp;Thursday<br></span><span style="font-size: 18px;">5 - Friday<br></span><span style="font-size: 18px;">6 - Saturday</span></p>
-<p><span style="font-size: 18px;">You have to <strong>return</strong> the index for the day which is <strong>n</strong>&nbsp;days before the given day&nbsp;<strong>d.</strong></span></p>
-<p><span style="font-size: 18px;"><strong>Examples:</strong><strong> </strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input: </strong>d = 4, n = 3
-<strong>Output: </strong>1
-<strong>Explanation: </strong>3 days before the 4th is 1.</span></pre>
-<pre><span style="font-size: 18px;"><strong>Input: </strong>d = 2, n = 19
-<strong>Output: </strong>4
-<strong>Explanation: </strong>19 days before the 2nd is 4.</span><span style="font-size: 18px;"><br></span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;<code>Java</code>&nbsp;

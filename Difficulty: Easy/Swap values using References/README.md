@@ -1,6 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/magic-in-cpp/1?page=3&category=CPP&sortBy=submissions">Swap values using References</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given two integers <strong>a</strong> and <strong>b</strong>. The task is to <strong>swap </strong>two numbers using pass by reference. Swapping here means to <strong>interchange </strong>the values of a and b.</span>&nbsp;</p>
-<p><span style="font-size: 18px;"><strong>Examples :</strong> <strong> </strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input: </strong>a = 3, b = 5
-<strong>Output: </strong>5 3
-<strong>Explanation: </strong>Here, a = 3 and b = 5. After swapping a = 5 and b = 3.</span></pre>
-<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 &lt;= a, b &lt;= 10<sup>6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>cpp-pointers</code>&nbsp;<code>CPP</code>&nbsp;

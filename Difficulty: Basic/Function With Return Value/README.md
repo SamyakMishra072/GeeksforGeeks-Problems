@@ -1,6 +1,0 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/function-with-return-value/1?page=2&category=CPP&sortBy=submissions">Function With Return Value</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Here one integer<strong> n</strong> is given. You need to <strong>write </strong>the <strong>complete </strong>function <strong>returnValueFunction </strong>that takes n as a <strong>parameter </strong>and uses the <strong>return keyword </strong>to return <strong>double </strong>the value of n.</span></p>
-<p><span style="font-size: 18px;"><strong>Examples:</strong></span><span style="font-size: 18px;"><strong> </strong></span></p>
-<pre><span style="font-size: 18px;"><strong>Input</strong></span><span style="font-size: 14pt;"><strong>: </strong></span><span style="font-size: 18px;">n = 2
-<strong>Output:</strong> 4
-<strong>Explanation</strong>: 2 * 2 = 4</span></pre>
-<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 </span><span style="font-size: 14pt;">≤ n ≤ 5</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python-functions</code>&nbsp;<code>CPP</code>&nbsp;<code>Java</code>&nbsp;
