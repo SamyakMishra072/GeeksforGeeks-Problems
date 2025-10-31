@@ -1,0 +1,28 @@
+class Solution {
+  public:
+    int solve(int idx, int k, vector<int> &arr, vector<vector<int>> &dp) {
+        int n = arr.size();
+        
+        if (idx >= n) return 0;
+        if (k == 0) return INT_MAX;
+        if (dp[idx][k] != -1) return dp[idx][k];
+        
+        int currSum = 0;
+        int ans = INT_MAX;
+        
+        for (int i = idx; i < n; i++) {
+            currSum += arr[i];
+            int rem = solve(i + 1, k - 1, arr, dp);
+            int currRes = max(currSum, rem);
+            ans = min(ans, currRes);
+        }
+        
+        return dp[idx][k] = ans;
+    }
+
+    int minTime(vector<int> &arr, int k) {
+        int n = arr.size();
+        vector<vector<int>> dp(n, vector<int>(k + 1, -1));
+        return solve(0, k, arr, dp);
+    }
+};
